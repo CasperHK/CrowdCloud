@@ -69,29 +69,26 @@
    ```bash
    git clone [https://github.com/your-org/crowdcloud.git](https://github.com/your-org/crowdcloud.git)
    cd crowdcloud
-
-```
+   ```
 
 2. **Configure environment**:
-Copy `.env.example` to `.env` and set your credentials:
-```bash
-cp .env.example .env
-
-```
+   Copy `.env.example` to `.env` and set your credentials:
+   ```bash
+   cp .env.example .env
+   ```
 
 
 3. **Run database migrations**:
-```bash
-go run main.go migrate
-
-```
+   ```bash
+   go run main.go migrate
+   
+   ```
 
 
 4. **Start the server**:
-```bash
-go run main.go serve
-
-```
+   ```bash
+   go run main.go serve
+   ```
 
 
 
@@ -155,6 +152,4 @@ go build -o crowdcloud .
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```
 
