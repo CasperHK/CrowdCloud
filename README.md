@@ -18,7 +18,6 @@
 ## 🏗️ Architecture Overview
 
 
-```
 
 ```
                       ┌───────────────────────────┐
@@ -45,7 +44,7 @@
         ┌────────────────────┘            └────────────────────┐
         ▼                                                      ▼
 
-```
+
 
 ┌───────────────────────┐                              ┌───────────────────────┐
 │ PostgreSQL / SQLite   │                              │ Local / S3 / MinIO    │
@@ -159,4 +158,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 ```
 
-```
