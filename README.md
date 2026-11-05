@@ -1,4 +1,3 @@
-```markdown
 # CrowdCloud
 
 **CrowdCloud** is a lightweight, high-performance self-hosted cloud storage and sync platform built with the **Grit Framework** in Go. Designed as a modern, efficient alternative to monolithic PHP-based cloud solutions like Nextcloud, CrowdCloud offers fast file management, modular microservices/plugins, multi-tenant workspace isolation, and native S3/local storage integration.
